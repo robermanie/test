@@ -7,8 +7,8 @@
       "requestCameraMic": true
     },
     "books": {
-      "url": "https://standardebooks.org/",
-      "allowedHosts": ["standardebooks.org"]
+      "url": "https://ynet.co.il/",
+      "allowedHosts": ["ynet.co.il"]
     },
     "relaxation": {
       "url": "https://www.youtube.com/@GreatMeditation/videos",
