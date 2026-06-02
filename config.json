@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "webApps": {
+    "video_call": {
+      "url": "https://web.whatsapp.com/",
+      "allowedHosts": ["whatsapp.com", "whatsapp.net"],
+      "requestCameraMic": true
+    },
+    "books": {
+      "url": "https://standardebooks.org/",
+      "allowedHosts": ["standardebooks.org"]
+    },
+    "relaxation": {
+      "url": "https://www.youtube.com/@GreatMeditation/videos",
+      "allowedHosts": ["youtube.com", "youtu.be"]
+    }
+  }
+}
