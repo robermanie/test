@@ -17,6 +17,6 @@
   },
   "liveTv": {
     "playlistUrl": "http://pl.ru-tv.site/0abf9b15/bddcc416/tv.m3u",
-    "forbidenGroups": "xxx"
+    "forbidenGroups": ["xxx", "other forbiden group"]
   }
 }
