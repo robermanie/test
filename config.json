@@ -37,7 +37,7 @@
     "renameGroups": [{"oldName": "Израиль", "newName": "Israel"}]
   },
   "radio": {
-    "playlistUrl": "http://pl.ru-tv.site/0abf9b15/bddcc416/tv.m3u",
+    "playlistUrl": "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/refs/heads/main/all-online_radio/---everything-full.m3u",
     "forbidenGroups": ["XXX", "other forbiden group"],
     "renameGroups": [{"oldName": "Израиль", "newName": "Israel"}]
   },
