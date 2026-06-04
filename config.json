@@ -13,6 +13,22 @@
     "relaxation": {
       "url": "https://www.youtube.com/@GreatMeditation/videos",
       "allowedHosts": ["youtube.com", "youtu.be"]
+    },
+    "myWellnessJornal": {
+      "url": "https://www.youtube.com/@GreatMeditation/videos",
+      "allowedHosts": ["youtube.com", "youtu.be"]
+    },
+    "rehabExercises": {
+      "url": "https://www.youtube.com/@GreatMeditation/videos",
+      "allowedHosts": ["youtube.com", "youtu.be"]
+    },
+    "gamesAndActivities": {
+      "url": "https://www.youtube.com/@GreatMeditation/videos",
+      "allowedHosts": ["youtube.com", "youtu.be"]
+    },
+    "internet": {
+      "url": "https://www.ewavemd.com",
+      "allowedHosts": ["ewavemd.com"]
     }
   },
   "liveTv": {
