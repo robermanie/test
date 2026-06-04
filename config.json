@@ -23,8 +23,8 @@
       "allowedHosts": ["youtube.com", "youtu.be"]
     },
     "games": {
-      "url": "https://www.youtube.com/@GreatMeditation/videos",
-      "allowedHosts": ["youtube.com", "youtu.be"]
+      "url": "https://www.msn.com/en-us/play",
+      "allowedHosts": []
     },
     "internet": {
       "url": "https://www.ewavemd.com",
