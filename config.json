@@ -46,4 +46,4 @@
     "forbidenGroups": ["XXX", "other forbiden group"],
     "renameGroups": [{"oldName": "Израиль", "newName": "Israel"}]
   }
-}
+} 
