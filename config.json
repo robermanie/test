@@ -36,13 +36,13 @@
     "forbidenGroups": ["XXX", "other forbiden group"],
     "renameGroups": [{"oldName": "Израиль", "newName": "Israel"}]
   },
-  "vod": {
-    "playlistUrl": "http://pl.ru-tv.site/0abf9b15/bddcc416/vod.m3u",
+  "radio": {
+    "playlistUrl": "http://pl.ru-tv.site/0abf9b15/bddcc416/tv.m3u",
     "forbidenGroups": ["XXX", "other forbiden group"],
     "renameGroups": [{"oldName": "Израиль", "newName": "Israel"}]
   },
-  "radio": {
-    "playlistUrl": "http://pl.ru-tv.site/0abf9b15/bddcc416/tv.m3u",
+  "vod": {
+    "playlistUrl": "http://pl.ru-tv.site/0abf9b15/bddcc416/vod.m3u",
     "forbidenGroups": ["XXX", "other forbiden group"],
     "renameGroups": [{"oldName": "Израиль", "newName": "Israel"}]
   }
