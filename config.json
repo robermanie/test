@@ -14,15 +14,15 @@
       "url": "https://www.youtube.com/@GreatMeditation/videos",
       "allowedHosts": ["youtube.com", "youtu.be"]
     },
-    "myWellnessJornal": {
+    "journal": {
       "url": "https://www.youtube.com/@GreatMeditation/videos",
       "allowedHosts": ["youtube.com", "youtu.be"]
     },
-    "rehabExercises": {
+    "rehab": {
       "url": "https://www.youtube.com/@GreatMeditation/videos",
       "allowedHosts": ["youtube.com", "youtu.be"]
     },
-    "gamesAndActivities": {
+    "games": {
       "url": "https://www.youtube.com/@GreatMeditation/videos",
       "allowedHosts": ["youtube.com", "youtu.be"]
     },
