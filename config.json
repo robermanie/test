@@ -27,8 +27,8 @@
       "allowedHosts": []
     },
     "internet": {
-      "url": "https://www.ewavemd.com",
-      "allowedHosts": ["ewavemd.com"]
+      "url": "https://ynet.co.il",
+      "allowedHosts": []
     }
   },
   "liveTv": {
