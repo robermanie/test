@@ -32,12 +32,12 @@
     }
   },
   "liveTv": {
-    "playlistUrl": "https://raw.githubusercontent.com/robermanie/test/refs/heads/main/tv.m3u",
+    "playlistUrl": "http://pl.ru-tv.site/4c85ed61/a63ae76d/tv.m3u",
     "forbidenGroups": ["XXX", "other forbiden group"],
     "renameGroups": [{"oldName": "Израиль", "newName": "Israel"}]
   },
   "radio": {
-    "playlistUrl": "http://pl.ru-tv.site/0abf9b15/bddcc416/vod.m3u",
+    "playlistUrl": "http://pl.ru-tv.site/4c85ed61/a63ae76d/vod.m3u",
     "forbidenGroups": ["XXX", "other forbiden group"],
     "renameGroups": [{"oldName": "Израиль", "newName": "Israel"}]
   },
